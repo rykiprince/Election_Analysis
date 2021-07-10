@@ -22,7 +22,7 @@ Helping Tom and Seth for the election audit cast in Colorado. Performing analysi
   - Charles Casper Stockham received **23.0%** of the vote and **85,213** number of votes.
   - Diana DeGette received **73.8%** of the vote and **272,892** number of votes.
   - Raymon Anthony Doane received **3.1%** of the vote and **11,606** number of votes.
-- **Diana DeGette**, who received **73.8%** of the vote and **272,892** number of votes. 
+- **Diana DeGette**, who received **73.8%** of the vote and **272,892** number of votes won the election. 
 
 ## Election-Audit Summary
 The script we created for this election audit will fit furthur election as long as they have the same format for the data sources, with Ballot ID, County, and Candidate as headers. If there is additional information category, it's easily to be modified as well.
